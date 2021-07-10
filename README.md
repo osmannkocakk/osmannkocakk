@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @osmannkocakk (Osman Koçak)
-- 👀 I’m interested in Python, Php, React (Native), Web, Mobile, SQL and NoSQL
+- 👀 I’m interested in Python, Php, C#, React (Native), Web, Mobile, SQL and NoSQL
 - 🌱 I’m currently learning everything in web mobile db and machine learning areas.
 - 📫 How to reach me-->osman.kocak@gmail.com
