@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @osmannkocakk (Osman Koçak)
 - 👀 I’m interested in Web, Mobile, SQL and NoSQL
 - 🌱 I’m currently learning everything in web mobile db and machine learning areas.
-- 📫 How to reach me-->os.kocak@outlook.com
+- 📫 How to reach me-->osman.kocak@gmail.com
